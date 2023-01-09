@@ -1,0 +1,18 @@
+# API simple
+
+
+Flask==2.2.2
+numpy
+Pillow==9.2.0
+seaborn
+Jinja2==3.1.2
+tensorflow==2.6.0
+keras==2.6
+
+uvicorn
+gunicorn
+uvloop
+httptools
+
+#cudnn
+#cudatoolkit
